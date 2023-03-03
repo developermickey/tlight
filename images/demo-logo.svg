@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="277" height="104" viewBox="0 0 277 104">
+  <g id="demo-logo" transform="translate(-439 -218)">
+    <text id="Lingua_Tutor" data-name="Lingua
+Tutor" transform="translate(564 259)" fill="#fff" font-size="42" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Lingua</tspan><tspan x="0" y="52">Tutor</tspan></text>
+    <g id="Group_1" data-name="Group 1" transform="translate(22.027 5.027)">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="104" height="104" rx="20" transform="translate(416.973 212.973)" fill="#fff"/>
+      <g id="language-svgrepo-com" transform="translate(437.205 236.073)">
+        <path id="Path_1" data-name="Path 1" d="M287.2,234.5l-12.633-30.6a3.088,3.088,0,0,0-5.709,0l-12.633,30.6a3.088,3.088,0,0,0,5.709,2.357l2.573-6.231h14.411l2.573,6.231A3.087,3.087,0,1,0,287.2,234.5Zm-20.142-10.05,4.656-11.278,4.656,11.278Z" transform="translate(-224.549 -180.38)" fill="#0c9"/>
+        <path id="Path_2" data-name="Path 2" d="M65.1,89.4a3.088,3.088,0,0,0-.686-4.309A40.155,40.155,0,0,1,59.3,80.212a72.436,72.436,0,0,0,10-20.141h4.53a3.088,3.088,0,1,0,0-6.176H57.546V51.088a3.088,3.088,0,0,0-6.176,0V53.9H35.088a3.088,3.088,0,1,0,0,6.176H62.775a67.007,67.007,0,0,1-7.55,15.21,53.005,53.005,0,0,1-6.06-9.667A3.088,3.088,0,1,0,43.469,68a58.964,58.964,0,0,0,7.42,11.781c.129.167.257.33.385.493A57.415,57.415,0,0,1,38.1,91.607a3.088,3.088,0,1,0,2.957,5.422c.3-.166,6.822-3.774,14.265-12.014a42.36,42.36,0,0,0,5.464,5.067,3.088,3.088,0,0,0,4.316-.688Z" transform="translate(-32 -48)" fill="#0c9"/>
+      </g>
+    </g>
+  </g>
+</svg>
